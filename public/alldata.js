@@ -1,4 +1,4 @@
-function AllData() {
+/**function AllData() {
     const [data, setData] = React.useState("");
   
     // React hook
@@ -25,7 +25,7 @@ function AllData() {
 
 
 
-
+*/
 
 
 
