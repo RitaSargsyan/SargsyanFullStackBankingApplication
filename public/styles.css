@@ -1,0 +1,31 @@
+body {
+  background-image: url("./img/bgBadBank.jpg");
+background-size: contain;
+
+    background-attachment: fixed;
+    background-position: center;
+    margin: 0 auto;
+  }
+  
+  /* Card Styling */
+  
+  .card {
+    margin: 0 auto;
+  }
+  
+  .link {
+    position: absolute;
+    text-align: center;
+    margin: auto;
+  }
+  
+  .navbar {
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  a:hover{
+    background-color:  dodgerblue;
+  
+   
+}
